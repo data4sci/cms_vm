@@ -16,4 +16,8 @@ VM pro testování PrestaShop, WordPress apod.
 * 
 
 
+e-Commerce alternativy:
 
+* PrestaShop
+* Magneto
+* Open Cart
